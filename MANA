@@ -1,4 +1,11 @@
-<!-- TradingView Widget BEGIN -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Главная страница</title>
+  </head>
+  <body>
+    <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://ru.tradingview.com/symbols/MANAUSDT/?exchange=BINANCE" rel="noopener" target="_blank"><span class="blue-text">Курс MANAUSDT</span></a> от TradingView</div>
@@ -20,3 +27,5 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+  </body>
+</html>
